@@ -1,0 +1,12 @@
+D:\JobBoy BD\Application\JobBoyBD\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+D:\JobBoy BD\Application\JobBoyBD\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+D:\JobBoy BD\Application\JobBoyBD\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.AssemblyReference.cache
+D:\JobBoy BD\Application\JobBoyBD\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+D:\JobBoy BD\Application\JobBoyBD\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+D:\JobBoy BD\Application\JobBoyBD\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+D:\JobBoy BD\Application\JobBoyBD\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
+D:\JobBoy BD\Application\JobBoyBD\DatabaseLayer\bin\Debug\EntityFramework.dll
+D:\JobBoy BD\Application\JobBoyBD\DatabaseLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\JobBoy BD\Application\JobBoyBD\DatabaseLayer\bin\Debug\EntityFramework.xml
+D:\JobBoy BD\Application\JobBoyBD\DatabaseLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\JobBoy BD\Application\JobBoyBD\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CopyComplete

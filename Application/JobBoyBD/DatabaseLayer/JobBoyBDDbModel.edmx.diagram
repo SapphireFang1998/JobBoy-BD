@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="cfc5d2932f4f4651b21854a563676c29" Name="Diagram1">
+        <EntityTypeShape EntityType="JobBoyBD_DBModel.CompanyTable" Width="1.5" PointX="5.25" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobBoyBD_DBModel.JobCategoryTable" Width="1.5" PointX="5.25" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobBoyBD_DBModel.JobNatureTable" Width="1.5" PointX="5.25" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobBoyBD_DBModel.JobRequirementDetailTable" Width="1.5" PointX="9.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobBoyBD_DBModel.JobRequirementTable" Width="1.5" PointX="7.5" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobBoyBD_DBModel.JobStatusTable" Width="1.5" PointX="5.25" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobBoyBD_DBModel.UserTable" Width="1.5" PointX="3" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobBoyBD_DBModel.UserTypeTable" Width="1.5" PointX="0.75" PointY="3" IsExpanded="true" />
+        <AssociationConnector Association="JobBoyBD_DBModel.FK_CompanyTable_UserTable" ManuallyRouted="false" />
+        <AssociationConnector Association="JobBoyBD_DBModel.FK_JobRequirementDetailTable_JobRequirementTable" ManuallyRouted="false" />
+        <AssociationConnector Association="JobBoyBD_DBModel.FK_UserTypeTable_UserTable" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="JobBoyBD_DBModel.PostJobTable" Width="1.5" PointX="10.5" PointY="6.125" />
+        <AssociationConnector Association="JobBoyBD_DBModel.FK_PostJobTable_CompanyTable" />
+        <AssociationConnector Association="JobBoyBD_DBModel.FK_PostJobTable_JobCategoryTable" />
+        <AssociationConnector Association="JobBoyBD_DBModel.FK_PostJobTable_JobNatureTable" />
+        <AssociationConnector Association="JobBoyBD_DBModel.FK_JobRequirementDetailTable_PostJobTable" />
+        <AssociationConnector Association="JobBoyBD_DBModel.FK_PostJobTable_JobStatusTable" />
+        <AssociationConnector Association="JobBoyBD_DBModel.FK_PostJobTable_UserTable" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
