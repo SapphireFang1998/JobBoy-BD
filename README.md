@@ -2,24 +2,24 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Proposed Goals](#proposed-goals)
+- [Project Accomplishment](#project-accomplishment)
 - [Proposed Features](#proposed-features)
 - [Database Diagram](#database-diagram)
-- [Contribution](#contribution)
-- [Conclusion](#conclusion)
-- [Contact Information](#contact-information)
-- [Citation](#citation)
 - [License](#license)
 
 ## Introduction
 
 The project, named "JobBoy BD", is an online job portal designed to serve both job seekers and recruiters. The platform generates a unique PIN for each user, ensuring personalized access. Through this portal, organizations and institutions can post and advertise job openings tailored to their specific requirements, enabling job seekers to explore various opportunities and gather detailed information about potential employers. Additionally, organizations can review the resumes of job seekers and if they meet the required criteria, initiate hiring processes or contact them directly for further discussions.
 
-- **Proposed Goals**
+## Proposed Goals
   The objective of designing the online job portal is to give the job seekers a platform for finding a right and satisfactory job according to their qualification. It also connects the job seekers with the major organizations.
+  
   This system enables the recruiting manager to login to the system and create a vacancy and post it to the web. The recruiting manager can associate jobseekers with a vacancy and schedule the interview. He is able to search on jobseeker number and vacancy number.
 
-- **Project Accomplishment**
+## Project Accomplishment
   "JobBoy BD" epitomizes project accomplishment through the creation of an intuitive online job portal. Its successful implementation encompasses streamlined job applications, tailored user engagement, and a wealth of vacancy insights. By fostering connections between job seekers and employers, the project not only achieves technical prowess but also empowers individuals career journeys. The platforms impact transcends its digital presence, shaping the way people access opportunities and organizations find talent.
+  
   In the realization of "JobBoy BD," my efforts have been multifaceted and impactful. From inception to execution, I have meticulously designed and developed the platform, ensuring its user-friendly interface and seamless functionality. I have meticulously curated a diverse array of job listings, ensuring that job seekers access a comprehensive spectrum of opportunities across industries. The streamlined online application process is a result of my dedication to simplifying the job search experience. Additionally, I have orchestrated the creation and management of vacancies, granting organizations the flexibility to modify details as needed. By meticulously crafting the personalized user welcome, I have aimed to enhance engagement and foster a sense of belonging. Moreover, I have diligently collated comprehensive company and vacancy insights, enriching the platforms value for both job seekers and employers. Through persistent effort, I have brought "JobBoy BD" to fruition, connecting talent with opportunities in a dynamic and transformative manner. 
 
 ## Proposed Features
@@ -45,10 +45,11 @@ In the context of my online job portal project "JobBoy BD," the features include
 
 - **In-Depth Vacancy Insights:**
   Individual job listings are enriched with indepth insights that offer a comprehensive understanding of each position. From detailed responsibilities and qualifications to benefits and application deadlines, this feature equips job seekers with the necessary information to tailor their applications. Such clarity enables candidates to showcase their suitability and make informed decisions about the positions they apply for. 
+  
   Incorporating these diverse and user-centric features, "JobBoy BD" has crafted a robust online job portal that connects job seekers and organizations seamlessly. This platform simplifies the job search process, enhances transparency, and empowers users to make informed career decisions.
 
 ## Database Diagram
-
+![Database Diagram](DatabaseDiagram.png)
 
 ## License
 [MIT License](LICENSE)
